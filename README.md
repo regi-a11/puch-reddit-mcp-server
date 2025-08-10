@@ -1,4 +1,4 @@
-# 🏆 Hackathon Submission: Reddit Read-Only MCP Server
+# 🏆 Hackathon Submission: Reddit MCP Server
 
 This project is a **Model Context Protocol (MCP)** server built for the Puch AI Hackathon. It connects Puch AI to the Reddit platform, acting as a powerful read-only assistant for fetching and analyzing public Reddit data.
 
