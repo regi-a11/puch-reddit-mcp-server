@@ -126,8 +126,6 @@ This guide is for developers who want to set up and run this project locally.
     ```env
     AUTH_TOKEN=your_secret_token
     MY_NUMBER=your_whatsapp_number
-    REDDIT_CLIENT_ID=your_client_id
-    REDDIT_CLIENT_SECRET=your_client_secret
     REDDIT_USER_AGENT=PuchAIRedditMCP-ReadOnly/1.0
     ```
 
